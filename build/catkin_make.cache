@@ -1,0 +1,2 @@
+LMS1xx:novatel_gps_driver/novatel_gps_driver:novatel_gps_driver/novatel_gps_msgs:optris_drivers:video_stream_opencv
+-DCATKIN_DEVEL_PREFIX=/home/nvidia/snowcar_ws/devel -DCMAKE_INSTALL_PREFIX=/home/nvidia/snowcar_ws/install -G Unix Makefiles
